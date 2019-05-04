@@ -1,0 +1,19 @@
+{
+    "name": "kaz29/cakephp-psr15",
+    "description": "PSR-15 Middleware support for CakePHP",
+    "type": "cakephp-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kaz Watanabe",
+            "role": "Author",
+            "homepage": "http://kaz29.hatenablog.com/"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "kaz29\\CakePsr15\\": "src/"
+        }
+    }
+}
