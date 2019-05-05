@@ -5,7 +5,7 @@
 Install the latest version with
 
 ```
-$ composer install kaz29/cakephp-psr15:dev-master
+$ composer require kaz29/cakephp-psr15:dev-master
 ```
 
 ## Basic Usage
